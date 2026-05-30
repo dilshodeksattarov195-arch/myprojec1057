@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdalculate",
+        "uuid": 697620,
+        "checksum": "da59pb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
